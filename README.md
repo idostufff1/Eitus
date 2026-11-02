@@ -16,9 +16,9 @@ Leht tutvustab külastajale kõiki GTA mänge. Igal mängul on väljalaskeaasta 
 
 | Liige | GitHub | Vastutusala |
 |-------|--------|-------------|
-| Marten | [@martensester]([https://github.com/kasutaja](https://github.com/martensester)) | task 1 |
+| Marten | [@martensester](https://github.com/martensester) | task 1 |
 | Janar | [@Janar Karro](https://github.com/idostufff1) | task 2 |
-| Daniel Kukk | [@danielk78]([martensester](https://github.com/danielk78)) | task 3 |
+| Daniel Kukk | [@danielk78](https://github.com/danielk78) | task 3 |
 
 
 ## Tehnoloogiad
