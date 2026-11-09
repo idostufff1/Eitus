@@ -9,8 +9,8 @@ Leht tutvustab külastajale kõiki GTA mänge. Igal mängul on väljalaskeaasta 
 ## Lehed
 
 - **Avaleht** (`index.html`): GTA ajajoon
-- **[Leht 2]**: [Leht 2]
-- **[Leht 3]**: [Leht 3]
+- **Ajalugu**: (`ajalugu.html`): GTA ajalugu
+- **Maailm**: (`maailmad.html`): GTA maailmad
 
 ## Tiimiliikmed ja tööjaotus
 
