@@ -2,3 +2,9 @@
 #ajajoon {
     max-width: 100%;
 }
+
+
+ul {
+    column-count: 3;
+    width: 50%;
+}
