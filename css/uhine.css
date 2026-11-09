@@ -18,3 +18,10 @@ a:hover {
 hr {
     color: #c6a0f6;
 }
+
+.disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+    color: #7077a0;
+    font-weight: bold;
+}
